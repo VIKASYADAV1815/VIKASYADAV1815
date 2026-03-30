@@ -12,7 +12,7 @@
 
 ### <span style="color: #58a6ff; font-size: 24px;">Full Stack Developer | System Architect | UI/UX Enthusiast</span>
 
-<img src="https://media.giphy.com/media/LnQjWa5fzjsPQvYyBq/giphy.gif" width="80" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODY5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100" />
 
 ---
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-| <img src="https://media.giphy.com/media/g50fjg7bXsZp3xwWq8/giphy.gif" width="85" /><br/>**🎯 Who I Am**<br/>Full Stack Developer with expertise in building scalable web applications<br/>Passionate about clean code, system design & premium UX | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="85" /><br/>**📚 Education**<br/>BCA Graduate • Currently pursuing MCA<br/>Graphic Era Deemed to be University<br/>Continuously learning & growing | <img src="https://media.giphy.com/media/2dhRbwjnLQoVvDDJbu/giphy.gif" width="85" /><br/>**🚀 My Focus**<br/>Modern Web Technologies (MERN/Next.js)<br/>Building impactful digital products<br/>System Architecture & Scalability |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlNQ03J5JxX6lva/giphy.gif" width="90" /><br/>**🎯 Who I Am**<br/>Full Stack Developer with expertise in building scalable web applications<br/>Passionate about clean code, system design & premium UX | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90" /><br/>**📚 Education**<br/>BCA Graduate • Currently pursuing MCA<br/>Graphic Era Deemed to be University<br/>Continuously learning & growing | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn3PhboTuhFERzU/giphy.gif" width="90" /><br/>**🚀 My Focus**<br/>Modern Web Technologies (MERN/Next.js)<br/>Building impactful digital products<br/>System Architecture & Scalability |
 |:-:|:-:|:-:|
 
 </div>
@@ -180,7 +180,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="70" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" />
 
 </div>
 
@@ -197,7 +197,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/GeimqsHqTql0I/giphy.gif" width="60" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o6ozMBu8jCKbDEOV2/giphy.gif" width="70" />
 
 ### 📈 Most Used Languages
 
@@ -221,7 +221,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7bu3XilJISBOi4Ok/giphy.gif" width="60" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7bu3XilJISBOi4Ok/giphy.gif" width="70" />
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false)
 
@@ -270,7 +270,7 @@
 
 ### ✨ Thanks for stopping by!
 
-<img src="https://media.giphy.com/media/26u4cqiYI30juCOhO/giphy.gif" width="60" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26u4cqiYI30juCOhO/giphy.gif" width="70" />
 
 ![Profile views](https://komarev.com/ghpico/?username=VIKASYADAV1815&color=58a6ff)
 
