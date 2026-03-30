@@ -6,7 +6,13 @@
 
 <div align="center">
 
-![GitHub Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117:1a1f2e:58a6ff&height=280&section=header&text=Vikas%20Yadav&fontSize=90&fontColor=ffffff&fontBold=true&desc=Full%20Stack%20Developer&descSize=28&descAlignY=65&descAlignX=50&descColor=58a6ff)
+![Profile Picture](https://i.postimg.cc/3xgQH76g/Whats-App-Image-2026-02-19-at-8-23-43-PM.jpg)
+
+# <span style="font-size: 50px;">Vikas Yadav</span>
+
+### <span style="color: #58a6ff; font-size: 24px;">Full Stack Developer | System Architect | UI/UX Enthusiast</span>
+
+---
 
 </div>
 
@@ -16,7 +22,7 @@
 
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="80" /><br/>**Who I Am**<br/>Passionate Full Stack Developer building scalable web apps with clean architecture & premium UX | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="80" /><br/>**Education**<br/>BCA Graduate • MCA Student<br/>Graphic Era University | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="80" /><br/>**Focus**<br/>Modern Web Technologies<br/>System Design & Architecture |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="75" /><br/>**Who I Am**<br/>Passionate Full Stack Developer crafting scalable web apps with clean architecture & premium UX | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="75" /><br/>**Education**<br/>BCA Graduate • MCA Student<br/>Graphic Era University | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="75" /><br/>**Focus**<br/>Modern Web Technologies<br/>System Design & Architecture |
 |:-:|:-:|:-:|
 
 </div>
@@ -173,15 +179,15 @@
 <table align="center" border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=VIKASYADIV1815&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=VIKASYADIV1815&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=1a1f2e&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=VIKASYADIV1815&theme=dark&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideBorder=30363d" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=VIKASYADIV1815&theme=default&hide_border=false&background=1a1f2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideBorder=30363d" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASYADIV1815&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASYADIV1815&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=1a1f2e&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -196,7 +202,7 @@
 
 <div align="center">
 
-![Trophy Stats](https://github-profile-trophy.vercel.app/?username=VIKASYADIV1815&theme=dark&no-frame=false&no-bg=false&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Issues)
+![Trophy Stats](https://github-profile-trophy.vercel.app/?username=VIKASYADIV1815&theme=default&no-frame=false&no-bg=false&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Issues)
 
 </div>
 
@@ -210,7 +216,7 @@
 
 <div align="center">
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=VIKASYADIV1815&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=VIKASYADIV1815&limit=5&theme=default&combine_all_yearly_contributions=true&bg_color=1a1f2e&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
 
 </div>
 
@@ -224,7 +230,7 @@
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&border=false)
 
 </div>
 
