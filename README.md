@@ -12,7 +12,7 @@
 
 ### <span style="color: #58a6ff; font-size: 24px;">Full Stack Developer | System Architect | UI/UX Enthusiast</span>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" />
+<img src="https://media.giphy.com/media/LnQjWa5fzjsPQvYyBq/giphy.gif" width="80" />
 
 ---
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-| <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7o/giphy.gif" width="75" /><br/>**Who I Am**<br/>Passionate Full Stack Developer crafting scalable web apps with clean architecture & premium UX | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="75" /><br/>**Education**<br/>BCA Graduate • MCA Student<br/>Graphic Era University | <img src="https://media.giphy.com/media/3ornqQqKM1wUbPaSj6/giphy.gif" width="75" /><br/>**Focus**<br/>Modern Web Technologies<br/>System Design & Architecture |
+| <img src="https://media.giphy.com/media/g50fjg7bXsZp3xwWq8/giphy.gif" width="85" /><br/>**🎯 Who I Am**<br/>Full Stack Developer with expertise in building scalable web applications<br/>Passionate about clean code, system design & premium UX | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="85" /><br/>**📚 Education**<br/>BCA Graduate • Currently pursuing MCA<br/>Graphic Era Deemed to be University<br/>Continuously learning & growing | <img src="https://media.giphy.com/media/2dhRbwjnLQoVvDDJbu/giphy.gif" width="85" /><br/>**🚀 My Focus**<br/>Modern Web Technologies (MERN/Next.js)<br/>Building impactful digital products<br/>System Architecture & Scalability |
 |:-:|:-:|:-:|
 
 </div>
@@ -176,19 +176,36 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="70" />
+
+</div>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=VIKASYADAV1815&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=1a1f2e&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://streak-stats.demolab.com?user=VIKASYADAV1815&theme=tokyonight&hide_border=false&background=1a1f2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideBorder=30363d" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/GeimqsHqTql0I/giphy.gif" width="60" />
+
+### 📈 Most Used Languages
+
+</div>
 
 <table align="center" border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=VIKASYADAV1815&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=1a1f2e&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=VIKASYADAV1815&theme=tokyonight&hide_border=false&background=1a1f2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideBorder=30363d" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASYADAV1815&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=1a1f2e&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
     </td>
   </tr>
@@ -200,37 +217,11 @@
 
 <br/>
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy Stats](https://github-profile-trophy.vercel.app/?username=VIKASYADAV1815&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Issues)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 📈 Top Contributed Repo
-
-<div align="center">
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=VIKASYADAV1815&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=1a1f2e&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## 💭 Random Dev Quote
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/3o7bu3XilJISBOi4Ok/giphy.gif" width="60" />
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false)
 
@@ -273,11 +264,13 @@
 
 ---
 
+<br/>
+
 <div align="center">
 
 ### ✨ Thanks for stopping by!
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" />
+<img src="https://media.giphy.com/media/26u4cqiYI30juCOhO/giphy.gif" width="60" />
 
 ![Profile views](https://komarev.com/ghpico/?username=VIKASYADAV1815&color=58a6ff)
 
@@ -286,6 +279,8 @@
 ---
 
 <sub>Made with ❤️ and ☕ by **Vikas Yadav** | © 2024 All Rights Reserved</sub>
+
+<!-- 🌟 Keep coding, keep creating, keep inspiring! 🌟 -->
 
 </div>
 
