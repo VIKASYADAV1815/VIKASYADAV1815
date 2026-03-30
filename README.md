@@ -1,24 +1,285 @@
-# 💫 About Me:
-I’m Vikas Yadav, a passionate Full Stack Developer focused on building scalable, high-performance web applications with a strong emphasis on clean architecture and premium user experience.<br><br>I have completed my Bachelor of Computer Applications (BCA) and am currently pursuing my Master of Computer Applications (MCA) from Graphic Era Deemed to be University, continuously strengthening my technical foundation and problem-solving abilities.<br><br>I specialize in modern web technologies across both frontend and backend, enabling me to transform ideas into seamless digital products. My work is driven by a deep interest in system design, component-based architecture, and crafting visually refined interfaces that stand out.<br><br>💻 Tech Stack:<br>• Frontend: React.js, Next.js, TypeScript, Tailwind CSS  <br>• Backend: Node.js, Express.js  <br>• Database: MongoDB, Firebase  <br>• Tools & Others: Git, GitHub, REST APIs, UI/UX Design, Figma  <br><br>Beyond development, I’m constantly learning, experimenting, and pushing boundaries to create products that are not only functional but also impactful and future-ready.
+<!--
+  ⭐ Thanks for visiting my profile!
+  🎨 Designed with passion | Full Stack Developer
+  📍 Building digital experiences that matter
+-->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikasthatics) 
+![GitHub Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117:1a1f2e:58a6ff&height=280&section=header&text=Vikas%20Yadav&fontSize=90&fontColor=ffffff&fontBold=true&desc=Full%20Stack%20Developer&descSize=28&descAlignY=65&descAlignX=50&descColor=58a6ff)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VIKASYADAV1815&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VIKASYADAV1815&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASYADAV1815&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VIKASYADAV1815&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 👨‍💻 About Me
+
+<div align="center">
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="80" /><br/>**Who I Am**<br/>Passionate Full Stack Developer building scalable web apps with clean architecture & premium UX | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="80" /><br/>**Education**<br/>BCA Graduate • MCA Student<br/>Graphic Era University | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="80" /><br/>**Focus**<br/>Modern Web Technologies<br/>System Design & Architecture |
+|:-:|:-:|:-:|
+
+</div>
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VIKASYADAV1815&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## ⚡ Tech Stack
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      
+### 🎨 Frontend
+
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>React</b></td>
+    <td align="center"><b>Next.js</b></td>
+    <td align="center"><b>TypeScript</b></td>
+    <td align="center"><b>JavaScript</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>HTML5</b></td>
+    <td align="center"><b>CSS3</b></td>
+    <td align="center"><b>Tailwind</b></td>
+    <td align="center"><b>Redux</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="50" height="50"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>React Native</b></td>
+  </tr>
+</table>
+    </td>
+    <td align="center" valign="top" width="50%">
+      
+### ⚙️ Backend & Database
+
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" height="50"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Node.js</b></td>
+    <td align="center"><b>Express.js</b></td>
+    <td align="center"><b>MongoDB</b></td>
+    <td align="center"><b>Firebase</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" height="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>PostgreSQL</b></td>
+    <td align="center"><b>Supabase</b></td>
+    <td align="center"><b>Prisma</b></td>
+    <td align="center"><b>Python</b></td>
+  </tr>
+</table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      
+### 🛠️ Tools & Platforms
+
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="50" height="50"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Git</b></td>
+    <td align="center"><b>GitHub</b></td>
+    <td align="center"><b>Figma</b></td>
+    <td align="center"><b>Vite</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="50" height="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" height="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" height="50"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Webpack</b></td>
+    <td align="center"><b>NPM</b></td>
+    <td align="center"><b>Vercel</b></td>
+    <td align="center"><b>Netlify</b></td>
+  </tr>
+</table>
+    </td>
+    <td align="center" valign="top" width="50%">
+      
+### 🚀 Advanced Tech
+
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="50" height="50"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>C++</b></td>
+    <td align="center"><b>C</b></td>
+    <td align="center"><b>WordPress</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webgl/webgl-original.svg" width="50" height="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="50" height="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="50" height="50"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>WebGL</b></td>
+    <td align="center"><b>Chart.js</b></td>
+    <td align="center"><b>Framer</b></td>
+  </tr>
+</table>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## 📊 GitHub Stats
+
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=VIKASYADIV1815&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=VIKASYADIV1815&theme=dark&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideBorder=30363d" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASYADIV1815&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophy Stats](https://github-profile-trophy.vercel.app/?username=VIKASYADIV1815&theme=dark&no-frame=false&no-bg=false&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Issues)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 📈 Top Contributed Repo
+
+<div align="center">
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=VIKASYADIV1815&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🌐 Connect With Me
+
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <a href="https://instagram.com/vikasthatics" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:your-email@example.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/your-profile" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/your-handle" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for stopping by!
+
+![Profile views](https://komarev.com/ghpico/?username=VIKASYADIV1815&color=0e6ffc)
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=VIKASYADIV1815&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+<sub>Made with ❤️ and ☕ by **Vikas Yadav** | © 2024 All Rights Reserved</sub>
+
+</div>
+
+<!-- 
+  ⭐ Don't forget to drop a star if you like this profile!
+  🚀 Keep coding, keep creating, keep innovating!
+-->
