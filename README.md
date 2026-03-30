@@ -4,287 +4,207 @@
   📍 Building digital experiences that matter
 -->
 
+<div style="border: 3px double #30363d; padding: 20px; border-radius: 15px; position: relative;">
+
 <div align="center">
 
-![Profile Picture](https://i.postimg.cc/3xgQH76g/Whats-App-Image-2026-02-19-at-8-23-43-PM.jpg)
+  <br/>
+  
+  <a href="https://github.com/VIKASYADAV1815">
+    <img src="https://i.postimg.cc/3xgQH76g/Whats-App-Image-2026-02-19-at-8-23-43-PM.jpg" width="160" height="160" alt="Vikas Yadav" style="border-radius: 50%; box-shadow: 0 0 20px rgba(88,166,255,0.4); border: 2px solid #58a6ff;" />
+  </a>
 
-# <span style="font-size: 50px;">Vikas Yadav</span>
+  <br/><br/>
 
-### <span style="color: #58a6ff; font-size: 24px;">Full Stack Developer | System Architect | UI/UX Enthusiast</span>
+  <h1 style="font-weight: 800; color: #c9d1d9;">Hi there, I'm <span style="color: #58a6ff;">Vikas Yadav</span> 👋</h1>
+  
+  <h3 style="font-weight: 500; color: #8b949e; letter-spacing: 1px;">FULL STACK DEVELOPER • SYSTEM ARCHITECT • UI/UX ENTHUSIAST</h3>
+  
+  <p style="font-style: italic; color: #8b949e;">"Building digital experiences that matter | Turning ideas into scalable products"</p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODY5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100" />
-
----
+  <br/>
+  <hr style="width: 50%; border: 1px solid #30363d;" />
+  <br/>
 
 </div>
 
 <br/>
+<br/>
 
-## 👨‍💻 About Me
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="35" align="center" /> About Me
+</h2>
 
 <div align="center">
 
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlNQ03J5JxX6lva/giphy.gif" width="90" /><br/>**🎯 Who I Am**<br/>Full Stack Developer with expertise in building scalable web applications<br/>Passionate about clean code, system design & premium UX | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90" /><br/>**📚 Education**<br/>BCA Graduate • Currently pursuing MCA<br/>Graphic Era Deemed to be University<br/>Continuously learning & growing | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn3PhboTuhFERzU/giphy.gif" width="90" /><br/>**🚀 My Focus**<br/>Modern Web Technologies (MERN/Next.js)<br/>Building impactful digital products<br/>System Architecture & Scalability |
-|:-:|:-:|:-:|
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## ⚡ Tech Stack
-
-<table align="center" border="0">
+<table align="center" border="0" style="background: transparent;">
   <tr>
-    <td align="center" valign="top" width="50%">
-      
+    <td align="center" width="33%" valign="top">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="80" alt="Idea" />
+      <br/><br/>
+      <b>🎯 Who I Am</b><br/>
+      <sub>Full Stack Developer with expertise in building scalable web applications. Passionate about clean code & premium UX.</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <!-- PRESERVED EDUCATION GIF -->
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="Education" />
+      <br/><br/>
+      <b>📚 Education</b><br/>
+      <sub>BCA Graduate<br/>Currently pursuing MCA at<br/>Graphic Era University.</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="80" alt="Rocket" />
+      <br/><br/>
+      <b>🚀 My Focus</b><br/>
+      <sub>Modern Web Technologies (MERN / Next.js). System Architecture & Scalability.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+<br/>
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="30" align="center" /> Tech Arsenal
+</h2>
+
+<div align="center">
+
 ### 🎨 Frontend
-
-<table align="center">
+<table align="center" style="background: transparent;">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>React</b></td>
-    <td align="center"><b>Next.js</b></td>
-    <td align="center"><b>TypeScript</b></td>
-    <td align="center"><b>JavaScript</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>HTML5</b></td>
-    <td align="center"><b>CSS3</b></td>
-    <td align="center"><b>Tailwind</b></td>
-    <td align="center"><b>Redux</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>React Native</b></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" alt="React"/><br/><sub>React</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="45" alt="Next.js" style="background: white; border-radius: 4px; padding: 2px;"/><br/><sub>Next.js</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" alt="HTML5"/><br/><sub>HTML5</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" alt="CSS3"/><br/><sub>CSS3</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" alt="Redux"/><br/><sub>Redux</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="45" alt="React Native"/><br/><sub>React Native</sub></td>
   </tr>
 </table>
-    </td>
-    <td align="center" valign="top" width="50%">
-      
+
+<br/>
+
 ### ⚙️ Backend & Database
-
-<table align="center">
+<table align="center" style="background: transparent;">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Node.js</b></td>
-    <td align="center"><b>Express.js</b></td>
-    <td align="center"><b>MongoDB</b></td>
-    <td align="center"><b>Firebase</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" height="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>PostgreSQL</b></td>
-    <td align="center"><b>Supabase</b></td>
-    <td align="center"><b>Prisma</b></td>
-    <td align="center"><b>Python</b></td>
-  </tr>
-</table>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      
-### 🛠️ Tools & Platforms
-
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Git</b></td>
-    <td align="center"><b>GitHub</b></td>
-    <td align="center"><b>Figma</b></td>
-    <td align="center"><b>Vite</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="50" height="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" height="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Webpack</b></td>
-    <td align="center"><b>NPM</b></td>
-    <td align="center"><b>Vercel</b></td>
-    <td align="center"><b>Netlify</b></td>
-  </tr>
-</table>
-    </td>
-    <td align="center" valign="top" width="50%">
-      
-### 🚀 Advanced Tech
-
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>C++</b></td>
-    <td align="center"><b>C</b></td>
-    <td align="center"><b>WordPress</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webgl/webgl-original.svg" width="50" height="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" width="50" height="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framer/framer-original.svg" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>WebGL</b></td>
-    <td align="center"><b>Chart.js</b></td>
-    <td align="center"><b>Framer</b></td>
-  </tr>
-</table>
-    </td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" alt="Node.js"/><br/><sub>Node.js</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="45" alt="Express.js" style="background: white; border-radius: 4px; padding: 2px;"/><br/><sub>Express.js</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" alt="Supabase"/><br/><sub>Supabase</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45" alt="Firebase"/><br/><sub>Firebase</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" alt="Prisma" style="background: white; border-radius: 4px; padding: 2px;"/><br/><sub>Prisma</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/><br/><sub>Python</sub></td>
   </tr>
 </table>
 
 <br/>
 
----
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" />
+### 🛠️ Tools & Advanced Tech
+<table align="center" style="background: transparent;">
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" alt="Git"/><br/><sub>Git</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="45" alt="GitHub" style="background: white; border-radius: 4px; padding: 2px;"/><br/><sub>GitHub</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" alt="Figma"/><br/><sub>Figma</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="45" alt="Vite"/><br/><sub>Vite</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="45" alt="Webpack"/><br/><sub>Webpack</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" alt="NPM"/><br/><sub>NPM</sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" alt="Vercel" style="background: white; border-radius: 4px; padding: 2px;"/><br/><sub>Vercel</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/><br/><sub>C++</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" alt="C"/><br/><sub>C</sub></td>
+  </tr>
+</table>
 
 </div>
 
-<table align="center" border="0">
+<br/>
+<br/>
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="35" align="center" /> GitHub Statistics
+</h2>
+
+<div align="center">
+
+<table align="center" border="0" style="background: transparent;">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=VIKASYADAV1815&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=1a1f2e&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=VIKASYADAV1815&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=1a1f2e&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=10" alt="GitHub Stats" />
     </td>
     <td align="center" valign="top">
-      <img src="https://streak-stats.demolab.com?user=VIKASYADAV1815&theme=tokyonight&hide_border=false&background=1a1f2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideBorder=30363d" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o6ozMBu8jCKbDEOV2/giphy.gif" width="70" />
-
-### 📈 Most Used Languages
-
-</div>
-
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASYADAV1815&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=1a1f2e&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+      <img src="https://streak-stats.demolab.com?user=VIKASYADAV1815&theme=tokyonight&hide_border=false&background=1a1f2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideBorder=30363d&border_radius=10" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <br/>
 
----
-
-<br/>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7bu3XilJISBOi4Ok/giphy.gif" width="70" />
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASYADAV1815&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=1a1f2e&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="Top Languages" />
 
 </div>
 
 <br/>
-
----
-
 <br/>
 
-## 🌐 Connect With Me
-
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <a href="https://instagram.com/vikasthatics" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:your-email@example.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/your-profile" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/your-handle" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<br/>
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ad/512.gif" width="35" align="center" /> Dev Philosophy
+</h2>
 
 <div align="center">
+
+<a href="https://github.com/VIKASYADAV1815">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=30363d&border_radius=10" alt="Dev Quote" />
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="35" align="center" /> Connect With Me
+</h2>
+
+<div align="center">
+
+<a href="https://instagram.com/vikasthatics" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>&nbsp;&nbsp;
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/your-handle" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+<br/><br/>
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.gif" width="50" alt="Thanks" />
 
 ### ✨ Thanks for stopping by!
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eHZ5eWp5ODk5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26u4cqiYI30juCOhO/giphy.gif" width="70" />
+<br/>
 
-![Profile views](https://komarev.com/ghpico/?username=VIKASYADAV1815&color=58a6ff)
+<a href="https://github.com/VIKASYADAV1815">
+  <img src="https://komarev.com/ghpico/?username=VIKASYADAV1815&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=VIKASYADAV1815&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=VIKASYADAV1815&icon=0&color=0" alt="Visit Count" />
+</a>
 
----
+<br/><br/>
 
-<sub>Made with ❤️ and ☕ by **Vikas Yadav** | © 2024 All Rights Reserved</sub>
-
-<!-- 🌟 Keep coding, keep creating, keep inspiring! 🌟 -->
+<sub>Made with ❤️ and ☕ by **Vikas Yadav** | © 2026 All Rights Reserved</sub>
 
 </div>
 
-<!-- 
-  ⭐ Don't forget to drop a star if you like this profile!
-  🚀 Keep coding, keep creating, keep innovating!
--->
+</div>
