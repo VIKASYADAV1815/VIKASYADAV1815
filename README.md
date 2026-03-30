@@ -31,8 +31,8 @@
         🔗 <a href="https://github.com/VIKASYADAV1815">github.com/VIKASYADAV1815</a>
       </p>
       <br/>
-      <a href="https://github.com/VIKASYADAV1815?tab=followers"><img src="https://img.shields.io/badge/Following-30363d?style=for-the-badge&logoColor=white" height="30"/></a> &nbsp;
-      <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Message-30363d?style=for-the-badge&logoColor=white" height="30"/></a>
+      <a href="https://github.com/VIKASYADAV1815?tab=followers"><img src="https://img.shields.io/badge/Following-efefef?style=for-the-badge&logoColor=black&color=efefef&labelColor=efefef" height="32"/></a> &nbsp;
+      <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Message-efefef?style=for-the-badge&logoColor=black&color=efefef&labelColor=efefef" height="32"/></a>
     </td>
   </tr>
 </table>
@@ -58,22 +58,15 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" style="border-radius: 50%; border: 2px solid #888; padding: 10px;"/><br/><br/><b>MongoDB</b>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framer/framer-original.svg" width="60" style="border-radius: 50%; border: 2px solid #888; padding: 10px;"/><br/><br/><b>Framer</b>
+    </td>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="60" style="border-radius: 50%; border: 2px solid #888; padding: 10px;"/><br/><br/><b>Figma</b>
     </td>
   </tr>
 </table>
 
 <br><br>
-<hr>
-
-<!-- TABS (Posts / Reels / Tagged) -->
-<p>
-  <b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" width="20" /> POSTS</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="color: #888;"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.gif" width="20" /> REELS</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="color: #888;"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4cb/512.gif" width="20" /> TAGGED</span>
-</p>
-
-<br>
 
 <!-- INSTAGRAM GRID -->
 <table border="1" width="100%" style="border-collapse: collapse; border-color: #d0d7de;">
@@ -100,30 +93,48 @@
   <tr>
     <td width="33%" align="center" valign="top" style="padding: 30px;">
       <h3>🎨 Frontend Stack</h3><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin: 5px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="margin: 5px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="margin: 5px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" style="margin: 5px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" style="margin: 5px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="40" style="margin: 5px;"/>
+      <table border="0" style="background: transparent; margin: 0 auto;">
+        <tr>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
+        </tr>
+        <tr>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="40"/></td>
+        </tr>
+      </table>
     </td>
     <td width="33%" align="center" valign="top" style="padding: 30px;">
       <h3>⚙️ Backend Stack</h3><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" style="margin: 5px; background: white; border-radius: 4px; padding: 2px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" style="margin: 5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" style="margin: 5px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" style="margin: 5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" style="margin: 5px; background: white; border-radius: 4px; padding: 2px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin: 5px;"/>
+      <table border="0" style="background: transparent; margin: 0 auto;">
+        <tr>
+          <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" style="background: white; border-radius: 6px; padding: 2px;"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/></td>
+        </tr>
+        <tr>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" style="background: white; border-radius: 6px; padding: 2px;"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+        </tr>
+      </table>
     </td>
     <td width="33%" align="center" valign="top" style="padding: 30px;">
       <h3>🛠️ Tools & Advanced</h3><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" style="margin: 5px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" style="margin: 5px; background: white; border-radius: 4px; padding: 2px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40" style="margin: 5px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="40" style="margin: 5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" style="margin: 5px;"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin: 5px;"/>
+      <table border="0" style="background: transparent; margin: 0 auto;">
+        <tr>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" style="background: white; border-radius: 6px; padding: 2px;"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40"/></td>
+        </tr>
+        <tr>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="40"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/></td>
+          <td align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
 
@@ -138,16 +149,16 @@
     <td width="33%" align="center" valign="middle" style="padding: 30px;">
       <h3>🌐 Connect With Me</h3><br/>
       <a href="https://instagram.com/vikasthatics" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="140" alt="Instagram" style="margin-bottom: 10px;" />
+        <img src="https://img.shields.io/badge/Instagram-efefef?style=for-the-badge&logo=instagram&logoColor=E4405F" height="35" alt="Instagram" style="margin-bottom: 8px;" />
       </a><br/>
       <a href="mailto:your-email@example.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="140" alt="Gmail" style="margin-bottom: 10px;" />
+        <img src="https://img.shields.io/badge/Gmail-efefef?style=for-the-badge&logo=gmail&logoColor=D14836" height="35" alt="Gmail" style="margin-bottom: 8px;" />
       </a><br/>
       <a href="https://linkedin.com/in/your-profile" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140" alt="LinkedIn" style="margin-bottom: 10px;" />
+        <img src="https://img.shields.io/badge/LinkedIn-efefef?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="35" alt="LinkedIn" style="margin-bottom: 8px;" />
       </a><br/>
       <a href="https://twitter.com/your-handle" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="140" alt="Twitter" />
+        <img src="https://img.shields.io/badge/Twitter-efefef?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="35" alt="Twitter" />
       </a>
     </td>
   </tr>
