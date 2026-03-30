@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**VIKASYADAV1815/VIKASYADAV1815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 I’m Vikas Yadav, a passionate Full Stack Developer focused on building scalable, high-performance web applications with a strong emphasis on clean architecture and premium user experience.<br><br>I have completed my Bachelor of Computer Applications (BCA) and am currently pursuing my Master of Computer Applications (MCA) from Graphic Era Deemed to be University, continuously strengthening my technical foundation and problem-solving abilities.<br><br>I specialize in modern web technologies across both frontend and backend, enabling me to transform ideas into seamless digital products. My work is driven by a deep interest in system design, component-based architecture, and crafting visually refined interfaces that stand out.<br><br>💻 Tech Stack:<br>• Frontend: React.js, Next.js, TypeScript, Tailwind CSS  <br>• Backend: Node.js, Express.js  <br>• Database: MongoDB, Firebase  <br>• Tools & Others: Git, GitHub, REST APIs, UI/UX Design, Figma  <br><br>Beyond development, I’m constantly learning, experimenting, and pushing boundaries to create products that are not only functional but also impactful and future-ready.
 
 
@@ -33,8 +22,3 @@ I’m Vikas Yadav, a passionate Full Stack Developer focused on building scalabl
 [![](https://visitcount.itsvg.in/api?id=VIKASYADAV1815&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
