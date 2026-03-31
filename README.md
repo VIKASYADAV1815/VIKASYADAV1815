@@ -21,7 +21,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" width="25" />
       </h2>
       <p style="font-size: 16px;">
-        <b>45+</b> posts &nbsp;&nbsp;&nbsp;&nbsp; <b>1.2k</b> followers &nbsp;&nbsp;&nbsp;&nbsp; <b>300</b> following
+        <b>35+</b> Repo &nbsp;&nbsp;&nbsp;&nbsp; <b>1.2k</b> followers &nbsp;&nbsp;&nbsp;&nbsp; <b>300</b> following
       </p>
       <p>
         <b>Vikas Yadav</b><br/>
